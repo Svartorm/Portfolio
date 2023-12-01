@@ -11,24 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Home"
-pageRef = "/"
+name = "Accueil"
+pageRef = ""
 weight = 10
 
 [[main]]
-name = "Projects"
+name = "Projets"
 pageRef = "projects"
-weight = 15
+weight = 20
 
 [[main]]
 name = "Artificial Psycho"
-parent = "Projects"
+parent = "Projets"
 pageRef = "projects/artificial-psycho"
 weight = 20
 
 [[main]]
 name = "S.O.K"
-parent = "Projects"
+parent = "Projets"
 pageRef = "projects/sok"
 weight = 20
 
