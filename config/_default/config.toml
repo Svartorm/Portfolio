@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+baseURL = "https://svartorm.me/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -14,6 +14,15 @@ summaryLength = 0
 
 buildDrafts = false
 buildFuture = false
+
+[author]
+name = "Svartorm"
+image = "img/pfp_pip1.jpg"
+links = [
+  { email = "mailto:svartorm@pm.me" },
+  { github = "https://github.com/svartorm" },
+  { telegram = "https://t.me/Svartorm" },
+]
 
 # googleAnalytics = "G-XXXXXXXXX"
 

@@ -13,32 +13,26 @@ If I do enough thing, statistically, one of them will have to be great.
 
 <div style="text-align: justify">
 
-Hey there!  
-I'm a 20 years old french guy, currently studying and working for [EPITA](https://www.epita.fr/en/), a french engineering school specialised in computer science. I discovered programming at the age of 8, and I have never stopped ever since. I have come accross many languages, but I have a preference for C, C++ and low-level programming. I also like to play with hardware and have a special interest in embedded systems.  
-I am currently on my 3rd year of studies, and working on making a shell and a compiler (in C) for a custom language. I am also working on a few side projects, [more on that](/projects).
-
 {{< timeline >}}
 
 {{< timelineItem icon="graduation-cap" header="About Me" >}}
-Hey there ! <br/>
-I'm a 20 years old french guy, currently studying and working for <a href="https://www.epita.fr/en/">EPITA</a>. I'm a tech nerd and play my fair share of video games. I am also a roller coaster enthusiast and used to do parkour, though I'm trying to get back at it.
+Hey there! <br/>
+I'm a 20 years old french guy, currently studying and working for <a href="https://www.epita.fr">EPITA</a>, a french engineering school specialised in computer science. I discovered programming at the age of 8, and I have never stopped ever since. I have come accross many languages, but I have a preference for C, C++ and low-level programming. I also like to play with hardware and have a special interest in embedded systems. <br/>
 
+I guess it's obvious by now but I'm a tech nerd and play my fair share of video games. I am also a roller coaster enthusiast and used to do parkour, though I'm trying to get back at it.
 {{< /timelineItem >}}
 
-
-{{< timelineItem icon="code" header="Some cool projects" >}}
-Artificial Psycho is a fast-FPS where you have to fight robots and get back to your ship as fast a possible. Check it out ! 
-{{< article link="/projects/artificial-psycho/" >}}
-
+{{< timelineItem icon="code" header="Side Projects" >}}
+I am currently on my 3rd year of studies, and working on making a shell and a compiler (in C) for a custom language. I am also working on a few side projects. you can check them out <a href="/projects">here</a> or 
+directly on my github : {{< github repo="svartorm/Portfolio" >}}
+ <br/>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
-With other shortcodes 
-{{< figure
-    src="abstract.jpg"
-    alt="Abstract purple artwork"
-    caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)"
->}}
+{{< timelineItem icon="email" header="Contact">}}
+I am currently looking for an internship from <b class="text-primary-300" >July/September 2023 until January/Fevruary 2024</b>. If you are interested, you can contact me via any social media, by email at
+<a href="mailto:svartorm@pm.me">
+    svartorm@pm.me
+</a> or by filling the form <a href="/contact">here</a>.
 {{< /timelineItem >}}
 
 {{< /timeline >}}

@@ -10,16 +10,3 @@ rtl = false
 dateFormat = "2 January 2006"
 description = ""
 copyright = "2023 Svartorm"
-
-[author]
-name = "Svartorm"
-image = "img/pfp_pip1.jpg"
-links = [
-  { email = "mailto:hello@your_domain.com" },
-  { github = "https://github.com/username" },
-  { gitlab = "https://gitlab.com/username" },
-  { linkedin = "https://linkedin.com/in/username" },
-  { steam = "https://steamcommunity.com/profiles/userid" },
-  { telegram = "https://t.me/username" },
-  { twitter = "https://twitter.com/username" },
-]
