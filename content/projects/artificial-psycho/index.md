@@ -1,5 +1,6 @@
 +++
 title = 'Artificial Psycho'
+draft = true
 +++
 
 ## Description

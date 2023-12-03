@@ -24,7 +24,7 @@ I guess it's obvious by now but I'm a tech nerd and play my fair share of video 
 
 {{< timelineItem icon="code" header="Side Projects" >}}
 I am currently on my 3rd year of studies, and working on making a shell and a compiler (in C) for a custom language. I am also working on a few side projects. you can check them out <a href="/projects">here</a> or 
-directly on my github : {{< github repo="svartorm/Portfolio" >}}
+directly on my github : {{< github repo="svartorm/Svartorm" >}}
  <br/>
 {{< /timelineItem >}}
 

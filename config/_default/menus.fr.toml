@@ -20,17 +20,17 @@ name = "Projets"
 pageRef = "projects"
 weight = 20
 
-[[main]]
-name = "Artificial Psycho"
-parent = "Projets"
-pageRef = "projects/artificial-psycho"
-weight = 20
+# [[main]]
+# name = "Artificial Psycho"
+# parent = "Projets"
+# pageRef = "projects/artificial-psycho"
+# weight = 20
 
-[[main]]
-name = "S.O.K"
-parent = "Projets"
-pageRef = "projects/sok"
-weight = 20
+# [[main]]
+# name = "S.O.K"
+# parent = "Projets"
+# pageRef = "projects/sok"
+# weight = 20
 
 [[main]]
 name = "Contact"
