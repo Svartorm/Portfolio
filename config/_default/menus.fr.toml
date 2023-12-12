@@ -32,10 +32,10 @@ weight = 20
 # pageRef = "projects/sok"
 # weight = 20
 
-[[main]]
-name = "Contact"
-pageRef = "contact"
-weight = 30
+# [[main]]
+# name = "Contact"
+# pageRef = "contact"
+# weight = 30
 
 
 # -- Footer Menu --

@@ -1,5 +1,6 @@
 +++
 title = 'About Me'
+draft = true
 +++
 Hey there!  
 I'm a 20 years old french guy, currently studying and working for [EPITA](https://www.epita.fr/en/), a french engineering school specialised in computer science. I discovered programming at the age of 8, and I have never stopped ever since. I have come accross many languages, but I have a preference for C, C++ and low-level programming. I also like to play with hardware and have a special interest in embedded systems.  
