@@ -25,7 +25,7 @@ J'imagine que c'est évident mais je suis un féru de nouvelle technologie et de
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Projets Personnel" >}}
-Je suis actuellement en troisième année, et je travail sur un compilateur (en C++) pour Tiger. J'ai aussi d'autre projets à côté, tu peux les consutler <a href="https://github/Svartorm">ici</a>!
+Je suis actuellement en troisième année, et je travail sur un compilateur (en C++) pour Tiger. J'ai aussi d'autre projets à côté, tu peux les consutler <a href="https://www.github.com/Svartorm">ici</a>!
  <br/>
 {{< /timelineItem >}}
 
