@@ -17,22 +17,23 @@ If I do enough thing, statistically, one of them will have to be great.
 
 {{< timelineItem icon="graduation-cap" header="A propos" >}}
 Salut! <br/>
-Lyonnais, 20 ans, j'étudie et travaille pour <a href="https://www.epita.fr">EPITA</a>, une école d'ingenieurs en informatique. J'ai découvert la programmation à l'age de 8 ans, et je ne me suis jamais arreter depuis. J'ai pu éssayer beacoup de language, mais j'ai une préférence pour le C, C++ et la programmation de bas niveau. Je m'interesse aussi à l'hardware et au systemes embarqués. <br/>
+Lyonnais,
 
-I guess it's obvious by now but I'm a tech nerd and play my fair share of video games. I am also a roller coaster enthusiast and used to do parkour, though I'm trying to get back at it.
+ 20 ans, j'étudie et travaille pour <a href="https://www.epita.fr">EPITA</a>, une école d'ingenieurs en informatique. J'ai découvert la programmation à l'age de 12 ans, et je ne me suis jamais arreter depuis. J'ai pu éssayer beacoup de language, mais j'ai une préférence pour le C, C++ et la programmation de bas niveau. Je m'interesse aussi à l'hardware et au systemes embarqués. <br/>
+
+J'imagine que c'est évident mais je suis un féru de nouvelle technologie et de jeux-vidéo. Je suis aussi fan de montagne russe et de parkour, même si j'ai pas énormément de temps à y consacrer.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Projets Personnel" >}}
-I am currently on my 3rd year of studies, and working on making a shell and a compiler (in C) for a custom language. I am also working on a few side projects. you can check them out <a href="/projects">here</a> or 
-directly on my github : {{< github repo="svartorm/Svartorm" >}}
+Je suis actuellement en troisième année, et je travail sur un compilateur (en C++) pour Tiger. J'ai aussi d'autre projets à côté, tu peux les consutler <a href="https://github/Svartorm">ici</a>!
  <br/>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="email" header="Me Contacter">}}
-I am currently looking for an internship from <b class="text-primary-300" >July/September 2023 until January/Fevruary 2024</b>. If you are interested, you can contact me via any social media, by email at
-<a href="mailto:svartorm@pm.me">
+
+Je suis a la recherche d'un stage sur la période de <b class="text-primary-300" >Août/Septembre 2023 à Janvier 2024</b>. Si mon profile vous intéresse, vous pouvez me contacter sur tout mes réseaux sociaux et par email: <a href="mailto:svartorm@pm.me">
     svartorm@pm.me
-</a> or by filling the form <a href="/contact">here</a>.
+</a>.
 {{< /timelineItem >}}
 
 {{< /timeline >}}
