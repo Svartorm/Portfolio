@@ -23,7 +23,7 @@ I guess it's obvious by now but I'm a tech nerd and play my fair share of video 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Side Projects" >}}
-I am currently on my 3rd year of studies, and working on making a compiler (in C++) for a custom language. I am also working on a few side projects. You can check them out <a href="https//github/Svartorm">here</a>.
+I am currently on my 3rd year of studies, and working on making a compiler (in C++) for a custom language. I am also working on a few side projects. You can check them out <a href="https://github.com/Svartorm">here</a>.
  <br/>
 {{< /timelineItem >}}
 
